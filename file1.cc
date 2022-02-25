@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-	char a[10];
-	a[10]=0;
-	cout << "a[10] is: " << a[10] << endl; 
+	char array[10];
+	array[10]=0;
+	cout << "array[10] is: " << array[10] << "." << endl; 
 	return 0;
 }

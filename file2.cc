@@ -1,7 +1,6 @@
-
-void f()
+void func()
 {
-    char *p;
-    *p = 0;
+    char *pointer;
+    *pointer = 0;
 }
 
